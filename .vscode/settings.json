@@ -1,0 +1,27 @@
+{
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.formatOnSave": true,
+    "editor.codeActionsOnSave": {
+        "source.fixAll": true
+    },
+    "prettier.singleQuote": true,
+    "prettier.jsxSingleQuote": true,
+    "prettier.trailingComma": "all",
+    "prettier.arrowParens": "always",
+    "prettier.printWidth": 80,
+    "javascript.preferences.quoteStyle": "single",
+    "editor.tabSize": 2,
+    "editor.detectIndentation": false,
+    "eslint.enable": true,
+    "eslint.autoFixOnSave": true,
+    "eslint.validate": [
+        "javascript",
+        "javascriptreact",
+        "typescript",
+        "typescriptreact"
+    ],
+    "eslint.options": {
+        "configFile": ".eslintrc.json"
+    },
+    "nuxt.isNuxtApp": false
+}
